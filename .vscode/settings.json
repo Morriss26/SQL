@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "myData",
+            "group": "myDataGroup",
+            "database": "database.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "bais_data",
+            "database": "C:\\Users\\steph\\OneDrive - University of South Florida\\Attachments\\sqlite_coding_challenge\\sqlite_coding_challenge\\bais_sqlite_lab.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
